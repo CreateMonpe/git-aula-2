@@ -2,4 +2,4 @@
 editando na maquina local
 outra edição
 
-ediçao deira no remoto
+ediçao feita no remoto
